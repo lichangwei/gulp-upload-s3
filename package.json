@@ -1,7 +1,7 @@
 {
   "name": "gulp-upload-s3",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "a gulp plugin that upload files into aws s3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,7 @@
   "keywords": [
     "gulp",
     "upload",
+    "aws",
     "s3"
   ],
   "author": "Changwei Li<lichangwei@love.com>",
