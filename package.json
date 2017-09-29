@@ -1,0 +1,31 @@
+{
+  "name": "gulp-upload-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichangwei/gulp-upload-s3.git"
+  },
+  "keywords": [
+    "gulp",
+    "upload",
+    "s3"
+  ],
+  "author": "Changwei Li<lichangwei@love.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lichangwei/gulp-upload-s3/issues"
+  },
+  "homepage": "https://github.com/lichangwei/gulp-upload-s3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.124.0",
+    "event-stream": "^3.3.4",
+    "gulp-util": "^3.0.8",
+    "lodash": "^4.17.4",
+    "mime": "^2.0.3"
+  }
+}
